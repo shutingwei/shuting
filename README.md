@@ -1,2 +1,2 @@
-# shuting.github.io
+# Welcome
 Shuting’s Blog
