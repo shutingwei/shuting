@@ -1,5 +1,5 @@
 .. 中文技术文档写作风格指南 documentation master file, created by
-   sphinx-quickstart on Wed 9月16日 11:46:34 2020.
+   sphinx-quickstart on Wed 9月16日 11:46:34 2020。
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
